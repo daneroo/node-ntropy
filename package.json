@@ -1,0 +1,24 @@
+{
+  "name": "ntropy",
+  "version": "0.0.1",
+  "description": "A node module for entropy coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -u tdd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/daneroo/node-ntropy.git"
+  },
+  "keywords": [
+    "entropy",
+    "coding",
+    "huffman",
+    "arithmetic"
+  ],
+  "devDependencies": {
+    "mocha": "1.7.x"
+  },
+  "author": "Daniel Lauzon",
+  "license": "BSD"
+}
