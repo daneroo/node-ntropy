@@ -18,7 +18,7 @@ I wanted to write something useful, while learing the proper practices of TDD.
 # References
 * Entropy Coding
 * Testing
-    * [Mocha testing framework](http://visionmedia.github.com/mocha/)
+    * [Mocha testing framework](http://mochajs.org/)
     * [Testing with mocha (dailyJS)](http://dailyjs.com/2011/12/08/mocha/)
     * [Mocha article](http://www.adomokos.com/2012/01/javascript-testing-with-mocha.html)
     * [Testing example by TJ](https://github.com/visionmedia/express)
